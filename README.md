@@ -159,7 +159,7 @@ Lulumi-browser is a lightweight browser coded with Vue.js 2 and Electron.
 - Web extensions API support
 - Lightweight
 
-## [<img src /> Electron browser shell](https://github.com/samuelmaddock/electron-browser-shell#readme)
+## [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Electron browser shell](https://github.com/samuelmaddock/electron-browser-shell#readme)
 
 A minimal, tabbed web browser with support for Chrome extensions
 

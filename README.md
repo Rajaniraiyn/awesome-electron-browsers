@@ -1,50 +1,53 @@
-<div align=center >
+<div align=center id=top >
 
 # Awesome Electron Browsers
 
 ![Awesome](https://project-awesome.org/images/logo.png)
 
-| **Table of Contents** |
-| -- |
-| [<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png" height=30 align=center /> Beaker](#img-srchttpsgithubcombeakerbrowserbeakerrawmasterbuildicons256x256png-height30-aligncenter--beaker) |
-| [<img src="https://colibri.opqr.co/static/11acdf2f980628466bc5481bec97dcc7/bf8e1/icon-app.png" height=30 align=center /> Colibri](#img-srchttpscolibriopqrcostatic11acdf2f980628466bc5481bec97dcc7bf8e1icon-apppng-height30-aligncenter--colibri) |
-| [<img src="https://mozilla.github.io/tofino/images/mozilla-tofino.png" height=30 align=center /> Tofino by Mozilla](#img-srchttpsmozillagithubiotofinoimagesmozilla-tofinopng-height30-aligncenter--tofino-by-mozilla) |
-| [<img src="https://minbrowser.org/splash/logo.png" height=30 align=center /> Min](#img-srchttpsminbrowserorgsplashlogopng-height30-aligncenter--min) |
-| [<img src="https://github.com/brunurd/companion/raw/main/public/images/compy.svg" height=30 align=center /> Companion](#img-srchttpsgithubcombrunurdcompanionrawmainpublicimagescompysvg-height30-aligncenter--companion) |
-| [<img src="https://sizzy.app/images/S.svg" height=30 align=center /> Sizzy](#img-srchttpssizzyappimagesssvg-height30-aligncenter--sizzy) |
-| [<img src="https://storage.googleapis.com/production-os-assets/assets/eb423d99-97b8-4936-924b-afa87d7241c5" height=30 align=center /> Biscuit](#img-srchttpsstoragegoogleapiscomproduction-os-assetsassetseb423d99-97b8-4936-924b-afa87d7241c5-height30-aligncenter--biscuit) |
-| [ <img src="https://github.com/wexond/browser-base/raw/master/static/icons/icon.png" height=30 align=center /> Wexond](#img-srchttpsgithubcomwexondbrowser-baserawmasterstaticiconsiconpng-height30-aligncenter--wexond) |
-| [<img src="https://polypane.app/icons/icon-144x144.png" height=30 align=center /> Polypane](#img-srchttpspolypaneappiconsicon-144x144png-height30-aligncenter--polypane) |
-| [<img src="https://seobrowse.com/img/logo-256.png" height=30 align=center /> SEOBrowse](#img-srchttpsseobrowsecomimglogo-256png-height30-aligncenter--seobrowse) |
-| [<img src="https://responsively.app/assets/img/logo.svg" height=30 align=center /> Responsively](#img-srchttpsresponsivelyappassetsimglogosvg-height30-aligncenter--responsively) |
-| [<img src="https://github.com/spikecodes/peacock/raw/master/images/peacock.png" height=30 align=center /> Peacock](#img-srchttpsgithubcomspikecodespeacockrawmasterimagespeacockpng-height30-aligncenter--peacock) |
-| [<img src="https://ohhaibrowser.com/assets/imgs/Logo-Light.png" height=30 align=center /> OhHai](#img-srchttpsohhaibrowsercomassetsimgslogo-lightpng-height30-aligncenter--ohhai) |
-| [<img src="https://www.electronjs.org/images/app-img/top-browser/top-browser-icon-128.png" width=30 align=center /> Electron top browser](#img-srchttpswwwelectronjsorgimagesapp-imgtop-browsertop-browser-icon-128png-width30-aligncenter--electron-top-browser) |
-| [<img src="https://github.com/LulumiProject/lulumi-browser/blob/master/static/icons/icon.png?raw=true" height=30 align=center /> Lulumi](#img-srchttpsgithubcomlulumiprojectlulumi-browserblobmasterstaticiconsiconpngrawtrue-height30-aligncenter--lulumi) |
-| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Electron browser shell](#img-srchttpsgithubcomelectronelectronblobmaindefault_appiconpngrawtrue-height30-aligncenter--electron-browser-shell) |
-| [<img src="https://mist.ethereum.org/images/logo@2x.png" height=30 align=center /> Mist](#img-srchttpsmistethereumorgimageslogo2xpng-height30-aligncenter--mist) |
-| [<img src="https://sync.vecha.in/img/sync2-logo.cf3878b5.svg" height=30 align=center /> VeChain Sync](#img-srchttpssyncvechainimgsync2-logocf3878b5svg-height30-aligncenter--vechain-sync) |
-| [<img src="https://vieb.dev/img/icon.svg" height=30 align=center /> Vieb](#img-srchttpsviebdevimgiconsvg-height30-aligncenter--vieb) |
-| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Electron as browser](#img-srchttpsgithubcomelectronelectronblobmaindefault_appiconpngrawtrue-height30-aligncenter--electron-as-browser) |
-| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> broz](#img-srchttpsgithubcomelectronelectronblobmaindefault_appiconpngrawtrue-height30-aligncenter--broz) |
-| [<img src="https://cloud.githubusercontent.com/assets/616585/18190724/c47550ee-7092-11e6-9cb4-15e02b9ca298.png" height=30 align=center /> elector](#img-srchttpscloudgithubusercontentcomassets61658518190724c47550ee-7092-11e6-9cb4-15e02b9ca298png-height30-aligncenter--elector) |
-| [<img src="https://github.com/herber/cargo/blob/master/src/static/icon.png?raw=true" height=30 align=center /> Cargo](#img-srchttpsgithubcomherbercargoblobmastersrcstaticiconpngrawtrue-height30-aligncenter--cargo) |
-| [<img src="https://elzabrowser.com/assets/icon.webp" height=30 align=center /> Elza](#img-srchttpselzabrowsercomassetsiconwebp-height30-aligncenter--elza) |
-| [<img src="https://github.com/MystPi/ninetails/blob/main/appicons/ninetails.png?raw=true" height=30 align=center /> ninetails](#img-srchttpsgithubcommystpininetailsblobmainappiconsninetailspngrawtrue-height30-aligncenter--ninetails) |
-| [<img src="https://sushib.me/myimg/logo.png" height=30 align=center /> Sushi](#img-srchttpssushibmemyimglogopng-height30-aligncenter--sushi) |
-| [<img src="https://moduleart.github.io/ferny/imgs/ferny/icon256.png" height=30 align=center /> Ferny](#img-srchttpsmoduleartgithubiofernyimgsfernyicon256png-height30-aligncenter--ferny) |
-| [<img src="https://github.com/staniel359/muffon/blob/main/public/logo.png?raw=true" height=30 align=center /> muffon](#img-srchttpsgithubcomstaniel359muffonblobmainpubliclogopngrawtrue-height30-aligncenter--muffon) |
-| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> chronicler](#img-srchttpsgithubcomelectronelectronblobmaindefault_appiconpngrawtrue-height30-aligncenter--chronicler) |
-| [<img src="https://raw.githubusercontent.com/fjsfelix/windowed/master/build/icon.ico" height=30 align=center /> windowed](#img-srchttpsrawgithubusercontentcomfjsfelixwindowedmasterbuildiconico-height30-aligncenter--windowed) |
-| [<img src="https://github.com/code-dot-org/browser/blob/main/build/icons/128x128.png?raw=true" height=30 align=center /> Browser (code.org)](#img-srchttpsgithubcomcode-dot-orgbrowserblobmainbuildicons128x128pngrawtrue-height30-aligncenter--browser-codeorg) |
-| [<img src="https://github.com/raluvy95/FelidaBrowser/raw/master/assets/mascot.svg" height=30 align=center /> Felida](#img-srchttpsgithubcomraluvy95felidabrowserrawmasterassetsmascotsvg-height30-aligncenter--felida) |
-| [<img src="https://github.com/emmanuelroecker/GL-Browser/blob/master/build/icons/128x128.png?raw=true" height=30 align=center /> GL-Browser](#img-srchttpsgithubcomemmanuelroeckergl-browserblobmasterbuildicons128x128pngrawtrue-height30-aligncenter--gl-browser) |
-| [<img src="https://github.com/joshuef/peruse/blob/master/resources/icons/128x128.png?raw=true" height=30 align=center /> Peruse](#img-srchttpsgithubcomjoshuefperuseblobmasterresourcesicons128x128pngrawtrue-height30-aligncenter--peruse) |
-| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=30 /> Browser monkey](#img-srchttpsgithubcomelectronelectronblobmaindefault_appiconpngrawtrue-height30-align30--browser-monkey) |
-| [<img src="https://user-images.githubusercontent.com/1064036/69584796-a7441700-1010-11ea-9a4e-bd7f7791298a.png" height=30 align=center /> Hack browser](#img-srchttpsuser-imagesgithubusercontentcom106403669584796-a7441700-1010-11ea-9a4e-bd7f7791298apng-height30-aligncenter--hack-browser) |
-| [<img src="https://raw.githubusercontent.com/rhysd/Tilectron/e8e8c735b0a5f552a247db22acba7bd2ff2bb5e3/resources/tilectron.svg" height=30 align=center /> Tilectron](#img-srchttpsrawgithubusercontentcomrhysdtilectrone8e8c735b0a5f552a247db22acba7bd2ff2bb5e3resourcestilectronsvg-height30-aligncenter--tilectron) |
-| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Turbo](#img-srchttpsgithubcomelectronelectronblobmaindefault_appiconpngrawtrue-height30-aligncenter--turbo) |
-| [<img src="https://github.com/octalmage/Ninja-Browser/blob/master/logo@2x.png?raw=true" height=30 align=center /> Ninja](#img-srchttpsgithubcomoctalmageninja-browserblobmasterlogo2xpngrawtrue-height30-aligncenter--ninja) |
+| **Table of Contents**                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png" height=30 align=center /> Beaker](#-beaker)                                               |
+| [<img src="https://colibri.opqr.co/static/11acdf2f980628466bc5481bec97dcc7/bf8e1/icon-app.png" height=30 align=center /> Colibri](#-colibri)                                     |
+| [<img src="https://mozilla.github.io/tofino/images/mozilla-tofino.png" height=30 align=center /> Tofino by Mozilla](#-tofino-by-mozilla)                                         |
+| [<img src="https://minbrowser.org/splash/logo.png" height=30 align=center /> Min](#-min)                                                                                         |
+| [<img src="https://github.com/brunurd/companion/raw/main/public/images/compy.svg" height=30 align=center /> Companion](#-companion)                                              |
+| [<img src="https://sizzy.app/images/S.svg" height=30 align=center /> Sizzy](#-sizzy)                                                                                             |
+| [<img src="https://storage.googleapis.com/production-os-assets/assets/eb423d99-97b8-4936-924b-afa87d7241c5" height=30 align=center /> Biscuit](#-biscuit)                        |
+| [ <img src="https://github.com/wexond/browser-base/raw/master/static/icons/icon.png" height=30 align=center /> Wexond](#-wexond)                                                 |
+| [<img src="https://polypane.app/icons/icon-144x144.png" height=30 align=center /> Polypane](#-polypane)                                                                          |
+| [<img src="https://seobrowse.com/img/logo-256.png" height=30 align=center /> SEOBrowse](#-seobrowse)                                                                             |
+| [<img src="https://responsively.app/assets/img/logo.svg" height=30 align=center /> Responsively](#-responsively)                                                                 |
+| [<img src="https://github.com/spikecodes/peacock/raw/master/images/peacock.png" height=30 align=center /> Peacock](#-peacock)                                                    |
+| [<img src="https://ohhaibrowser.com/assets/imgs/Logo-Light.png" height=30 align=center /> OhHai](#-ohhai)                                                                        |
+| [<img src="https://www.electronjs.org/images/app-img/top-browser/top-browser-icon-128.png" width=30 align=center /> Electron top browser](#-electron-top-browser)                |
+| [<img src="https://github.com/LulumiProject/lulumi-browser/blob/master/static/icons/icon.png?raw=true" height=30 align=center /> Lulumi](#-lulumi)                               |
+| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Electron browser shell](#-electron-browser-shell)             |
+| [<img src="https://mist.ethereum.org/images/logo@2x.png" height=30 align=center /> Mist](#-mist)                                                                                 |
+| [<img src="https://sync.vecha.in/img/sync2-logo.cf3878b5.svg" height=30 align=center /> VeChain Sync](#-vechain-sync)                                                            |
+| [<img src="https://vieb.dev/img/icon.svg" height=30 align=center /> Vieb](#-vieb)                                                                                                |
+| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Electron as browser](#-electron-as-browser)                   |
+| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> broz](#-broz)                                                 |
+| [<img src="https://cloud.githubusercontent.com/assets/616585/18190724/c47550ee-7092-11e6-9cb4-15e02b9ca298.png" height=30 align=center /> elector](#-elector)                    |
+| [<img src="https://github.com/herber/cargo/blob/master/src/static/icon.png?raw=true" height=30 align=center /> Cargo](#-cargo)                                                   |
+| [<img src="https://elzabrowser.com/assets/icon.webp" height=30 align=center /> Elza](#-elza)                                                                                     |
+| [<img src="https://github.com/MystPi/ninetails/blob/main/appicons/ninetails.png?raw=true" height=30 align=center /> ninetails](#-ninetails)                                      |
+| [<img src="https://sushib.me/myimg/logo.png" height=30 align=center /> Sushi](#-sushi)                                                                                           |
+| [<img src="https://moduleart.github.io/ferny/imgs/ferny/icon256.png" height=30 align=center /> Ferny](#-ferny)                                                                   |
+| [<img src="https://github.com/staniel359/muffon/blob/main/public/logo.png?raw=true" height=30 align=center /> muffon](#-muffon)                                                  |
+| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> chronicler](#-chronicler)                                     |
+| [<img src="https://raw.githubusercontent.com/fjsfelix/windowed/master/build/icon.ico" height=30 align=center /> windowed](#-windowed)                                            |
+| [<img src="https://github.com/code-dot-org/browser/blob/main/build/icons/128x128.png?raw=true" height=30 align=center /> Browser (code.org)](#-browser-codeorg)                  |
+| [<img src="https://github.com/raluvy95/FelidaBrowser/raw/master/assets/mascot.svg" height=30 align=center /> Felida](#-felida)                                                   |
+| [<img src="https://github.com/emmanuelroecker/GL-Browser/blob/master/build/icons/128x128.png?raw=true" height=30 align=center /> GL-Browser](#-gl-browser)                       |
+| [<img src="https://github.com/joshuef/peruse/blob/master/resources/icons/128x128.png?raw=true" height=30 align=center /> Peruse](#-peruse)                                       |
+| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=30 /> Browser monkey](#-browser-monkey)                                 |
+| [<img src="https://user-images.githubusercontent.com/1064036/69584796-a7441700-1010-11ea-9a4e-bd7f7791298a.png" height=30 align=center /> Hack browser](#-hack-browser)          |
+| [<img src="https://raw.githubusercontent.com/rhysd/Tilectron/e8e8c735b0a5f552a247db22acba7bd2ff2bb5e3/resources/tilectron.svg" height=30 align=center /> Tilectron](#-tilectron) |
+| [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Turbo](#-turbo)                                               |
+| [<img src="https://github.com/octalmage/Ninja-Browser/blob/master/logo@2x.png?raw=true" height=30 align=center /> Ninja](#-ninja)                                                |
+| [Contributors](#contributors)                                                                                                                                                    |
+| [Contributing](#contributing)                                                                                                                                                    |
+| [LICENSE](#license)                                                                                                                                                              |
 
 </div>
 
@@ -456,3 +459,23 @@ Ninja Browser is a browser that is instantly at your finger tips. It attempts to
 - For accessing tunnels
 
 -->
+
+## Contributors
+
+<a href="https://github.com/Rajaniraiyn/awesome-electron-browsers/graphs/contributors" align=center>
+  <img src="https://contrib.rocks/image?repo=Rajaniraiyn/awesome-electron-browsers" align=center/>
+</a>
+
+## Contributing
+
+[Contributing Guidelines](CONTRIBUTING.md)
+
+## License
+
+[MIT](LICENSE)
+
+<div align=center >
+
+[`⬆️ Back to Top ⬆️`](#top)
+
+</div>

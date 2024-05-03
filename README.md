@@ -280,7 +280,7 @@ Cargo is a browser for people that live on the internet and hate mice. Cargo can
 - tabs restore
 - hidden tabs
 
-## [<img src="https://github.com/elzabrowser/elza/blob/master/public/icon.png?raw=true" height=30 align=center /> Elza](https://elzabrowser.com/)
+## [<img src="https://github.com/elzabrowser/elza/blob/master/public/icon.png?raw=true" height=30 align=center /> Elza](https://github.com/elzabrowser/elza)
 
 No Nonsense Web Browser
 

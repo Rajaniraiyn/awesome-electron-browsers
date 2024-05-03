@@ -11,25 +11,25 @@
 | [<img src="https://mozilla.github.io/tofino/images/mozilla-tofino.png" height=30 align=center /> Tofino by Mozilla](#-tofino-by-mozilla)                                         |
 | [<img src="https://minbrowser.org/splash/logo.png" height=30 align=center /> Min](#-min)                                                                                         |
 | [<img src="https://github.com/brunurd/companion/raw/main/public/images/compy.svg" height=30 align=center /> Companion](#-companion)                                              |
-| [<img src="https://sizzy.app/images/S.svg" height=30 align=center /> Sizzy](#-sizzy)                                                                                             |
+| [<img src="https://sizzy.app/logo.png" height=30 align=center /> Sizzy](#-sizzy)                                                                                             |
 | [<img src="https://storage.googleapis.com/production-os-assets/assets/eb423d99-97b8-4936-924b-afa87d7241c5" height=30 align=center /> Biscuit](#-biscuit)                        |
 | [ <img src="https://github.com/wexond/browser-base/raw/master/static/icons/icon.png" height=30 align=center /> Wexond](#-wexond)                                                 |
 | [<img src="https://polypane.app/icons/icon-144x144.png" height=30 align=center /> Polypane](#-polypane)                                                                          |
 | [<img src="https://seobrowse.com/img/logo-256.png" height=30 align=center /> SEOBrowse](#-seobrowse)                                                                             |
-| [<img src="https://responsively.app/assets/img/logo.svg" height=30 align=center /> Responsively](#-responsively)                                                                 |
+| [<img src="https://responsively.app/android-chrome-512x512.png" height=30 align=center /> Responsively](#-responsively)                                                                 |
 | [<img src="https://github.com/spikecodes/peacock/raw/master/images/peacock.png" height=30 align=center /> Peacock](#-peacock)                                                    |
 | [<img src="https://ohhaibrowser.com/assets/imgs/Logo-Light.png" height=30 align=center /> OhHai](#-ohhai)                                                                        |
-| [<img src="https://www.electronjs.org/images/app-img/top-browser/top-browser-icon-128.png" width=30 align=center /> Electron top browser](#-electron-top-browser)                |
+| [<img src="https://raw.githubusercontent.com/erickzhao/apps/master/apps/top-browser/top-browser-icon-128.png" width=30 align=center /> Electron top browser](#-electron-top-browser)                |
 | [<img src="https://github.com/LulumiProject/lulumi-browser/blob/master/static/icons/icon.png?raw=true" height=30 align=center /> Lulumi](#-lulumi)                               |
 | [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Electron browser shell](#-electron-browser-shell)             |
-| [<img src="https://mist.ethereum.org/images/logo@2x.png" height=30 align=center /> Mist](#-mist)                                                                                 |
+| [<img src="https://github.com/ethereum/mist/blob/develop/icons/mist/icon2x.png?raw=true" height=30 align=center /> Mist](#-mist)                                                                                 |
 | [<img src="https://sync.vecha.in/img/sync2-logo.cf3878b5.svg" height=30 align=center /> VeChain Sync](#-vechain-sync)                                                            |
 | [<img src="https://vieb.dev/img/icon.svg" height=30 align=center /> Vieb](#-vieb)                                                                                                |
 | [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Electron as browser](#-electron-as-browser)                   |
 | [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> broz](#-broz)                                                 |
 | [<img src="https://cloud.githubusercontent.com/assets/616585/18190724/c47550ee-7092-11e6-9cb4-15e02b9ca298.png" height=30 align=center /> elector](#-elector)                    |
 | [<img src="https://github.com/herber/cargo/blob/master/src/static/icon.png?raw=true" height=30 align=center /> Cargo](#-cargo)                                                   |
-| [<img src="https://elzabrowser.com/assets/icon.webp" height=30 align=center /> Elza](#-elza)                                                                                     |
+| [<img src="https://github.com/elzabrowser/elza/blob/master/public/icon.png?raw=true" height=30 align=center /> Elza](#-elza)                                                                                     |
 | [<img src="https://github.com/MystPi/ninetails/blob/main/appicons/ninetails.png?raw=true" height=30 align=center /> ninetails](#-ninetails)                                      |
 | [<img src="https://sushib.me/myimg/logo.png" height=30 align=center /> Sushi](#-sushi)                                                                                           |
 | [<img src="https://moduleart.github.io/ferny/imgs/ferny/icon256.png" height=30 align=center /> Ferny](#-ferny)                                                                   |
@@ -95,7 +95,7 @@ Friendly mini browser to pin on top of any other desktop app and keep doing your
 
 - Always on top
 
-## [<img src="https://sizzy.app/images/S.svg" height=30 align=center /> Sizzy](https://sizzy.app/)
+## [<img src="https://sizzy.app/logo.png" height=30 align=center /> Sizzy](https://sizzy.app/)
 
 The browser for developers
 
@@ -154,7 +154,7 @@ SEOBrowse allows you to easily switch between international SERPs with the world
 - for SEO professionals
 - SERP export
 
-## [<img src="https://responsively.app/assets/img/logo.svg" height=30 align=center /> Responsively](https://responsively.app/)
+## [<img src="https://responsively.app/android-chrome-512x512.png" height=30 align=center /> Responsively](https://responsively.app/)
 
 A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
@@ -186,7 +186,7 @@ Take a walk on the wild side
 - Tabs management
 - Browser itself is responsive
 
-## [<img src="https://www.electronjs.org/images/app-img/top-browser/top-browser-icon-128.png" width=30 align=center /> Electron top browser](https://bitbucket.org/speedydemon/electron_top_browser/)
+## [<img src="https://raw.githubusercontent.com/erickzhao/apps/master/apps/top-browser/top-browser-icon-128.png" width=30 align=center /> Electron top browser](https://bitbucket.org/speedydemon/electron_top_browser/)
 
 Minimal browser that always stays on top of your screen
 
@@ -216,7 +216,7 @@ A minimal, tabbed web browser with support for Chrome extensions
 - context menu support
 - popup support
 
-## [<img src="https://mist.ethereum.org/images/logo@2x.png" height=30 align=center /> Mist](https://mist.ethereum.org/)
+## [<img src="https://github.com/ethereum/mist/blob/develop/icons/mist/icon2x.png?raw=true" height=30 align=center /> Mist](https://mist.ethereum.org/)
 
 Mist is a concept browser that connects you to the ethereum blockchain and uses p2p file transfer to access Dapps.
 
@@ -280,7 +280,7 @@ Cargo is a browser for people that live on the internet and hate mice. Cargo can
 - tabs restore
 - hidden tabs
 
-## [<img src="https://elzabrowser.com/assets/icon.webp" height=30 align=center /> Elza](https://elzabrowser.com/)
+## [<img src="https://github.com/elzabrowser/elza/blob/master/public/icon.png?raw=true" height=30 align=center /> Elza](https://elzabrowser.com/)
 
 No Nonsense Web Browser
 

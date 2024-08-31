@@ -16,7 +16,6 @@
 | [ <img src="https://github.com/wexond/browser-base/raw/master/static/icons/icon.png" height=30 align=center /> Wexond](#-wexond)                                                 |
 | [<img src="https://polypane.app/icons/icon-144x144.png" height=30 align=center /> Polypane](#-polypane)                                                                          |
 | [<img src="https://seobrowse.com/img/logo-256.png" height=30 align=center /> SEOBrowse](#-seobrowse)                                                                             |
-|
 | [<img src="https://github.com/Sneed-Group/sneedium/blob/master/logo.png?raw=true" height=30 align=center /> Sneedium](#-sneedium)                                                                             |
 | [<img src="https://responsively.app/android-chrome-512x512.png" height=30 align=center /> Responsively](#-responsively)                                                                 |
 | [<img src="https://github.com/spikecodes/peacock/raw/master/images/peacock.png" height=30 align=center /> Peacock](#-peacock)                                                    |

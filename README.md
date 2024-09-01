@@ -16,6 +16,7 @@
 | [ <img src="https://github.com/wexond/browser-base/raw/master/static/icons/icon.png" height=30 align=center /> Wexond](#-wexond)                                                 |
 | [<img src="https://polypane.app/icons/icon-144x144.png" height=30 align=center /> Polypane](#-polypane)                                                                          |
 | [<img src="https://seobrowse.com/img/logo-256.png" height=30 align=center /> SEOBrowse](#-seobrowse)                                                                             |
+| [<img src="https://github.com/Sneed-Group/sneedium/blob/master/logo.png?raw=true" height=30 align=center /> Sneedium](#-sneedium)                                                                             |
 | [<img src="https://responsively.app/android-chrome-512x512.png" height=30 align=center /> Responsively](#-responsively)                                                                 |
 | [<img src="https://github.com/spikecodes/peacock/raw/master/images/peacock.png" height=30 align=center /> Peacock](#-peacock)                                                    |
 | [<img src="https://ohhaibrowser.com/assets/imgs/Logo-Light.png" height=30 align=center /> OhHai](#-ohhai)                                                                        |
@@ -153,6 +154,17 @@ SEOBrowse allows you to easily switch between international SERPs with the world
 - SEO testing
 - for SEO professionals
 - SERP export
+
+# [<img src="https://github.com/Sneed-Group/sneedium/blob/master/logo.png?raw=true" height=30 align=center /> Sneedium](https://sneed-group.github.io/sneedium-www)
+
+A pro-privacy browser with built-in adblocker. It is under a custom license that may be controversial to some. It also has "clickjacking" for the greater good (Privacy-focused URL redirecting tech) that may also be controversial, although it is for the benefit of the user and not to profit off them.
+
+### Features:
+- Privacy-focused URL redirecting technology.
+- Tabs
+- Ad/Tracker Blocker
+- Emoji-based UI
+- DoH
 
 ## [<img src="https://responsively.app/android-chrome-512x512.png" height=30 align=center /> Responsively](https://responsively.app/)
 

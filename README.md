@@ -46,6 +46,7 @@
 | [<img src="https://raw.githubusercontent.com/rhysd/Tilectron/e8e8c735b0a5f552a247db22acba7bd2ff2bb5e3/resources/tilectron.svg" height=30 align=center /> Tilectron](#-tilectron) |
 | [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Turbo](#-turbo)                                               |
 | [<img src="https://github.com/octalmage/Ninja-Browser/blob/master/logo@2x.png?raw=true" height=30 align=center /> Ninja](#-ninja)                                                |
+| [<img src="https://raw.githubusercontent.com/YSamed/yalqen/main/design/brand/png/icon-256.png" height=30 align=center /> Yalqen](#-yalqen)                                       |
 | [Contributors](#contributors)                                                                                                                                                    |
 | [Contributing](#contributing)                                                                                                                                                    |
 | [LICENSE](#license)                                                                                                                                                              |
@@ -462,6 +463,18 @@ Ninja Browser is a browser that is instantly at your finger tips. It attempts to
 ### Features:
 
 - Embed the browser in the active window
+
+## [<img src="https://raw.githubusercontent.com/YSamed/yalqen/main/design/brand/png/icon-256.png" height=30 align=center /> Yalqen](https://github.com/YSamed/yalqen#readme)
+
+Open-source, Chromium-based developer browser for macOS.
+
+### Features:
+
+- Vertical tabs
+- Keyboard-first command bar
+- Built-in ad and tracker blocking
+- HTTPS-only mode and third-party cookie blocking
+- Chrome Web Store extension support
 
 <!--
 ## [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> SSH browser]()

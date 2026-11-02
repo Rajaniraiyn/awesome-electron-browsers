@@ -47,6 +47,7 @@
 | [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Turbo](#-turbo)                                               |
 | [<img src="https://github.com/octalmage/Ninja-Browser/blob/master/logo@2x.png?raw=true" height=30 align=center /> Ninja](#-ninja)                                                |
 | [<img src="https://raw.githubusercontent.com/YSamed/yalqen/main/design/brand/png/icon-256.png" height=30 align=center /> Yalqen](#-yalqen)                                       |
+| [<img src="https://raw.githubusercontent.com/lompendans/drift/main/icon-180.png" height=30 align=center /> Drift](#-drift)                                                       |
 | [Contributors](#contributors)                                                                                                                                                    |
 | [Contributing](#contributing)                                                                                                                                                    |
 | [LICENSE](#license)                                                                                                                                                              |
@@ -475,6 +476,21 @@ Open-source, Chromium-based developer browser for macOS.
 - Built-in ad and tracker blocking
 - HTTPS-only mode and third-party cookie blocking
 - Chrome Web Store extension support
+
+## [<img src="https://raw.githubusercontent.com/lompendans/drift/main/icon-180.png" height=30 align=center /> Drift](https://github.com/lompendans/drift)
+
+A calm, fast, open-source browser for Windows and Linux. Tabs down the side, a built-in ad blocker, and nothing in the way.
+
+### Features:
+
+- Vertical tabs with a Ctrl+Tab recent-tab switcher
+- Built-in ad and tracker blocking (uBlock Origin and EasyList filter lists)
+- Command bar that searches the web, history, bookmarks and open tabs
+- Chrome Web Store and Edge Add-ons extension support
+- Custom permission prompts, dialogs, context menu and screen-share picker
+- Import bookmarks and history from Chrome, Edge, Firefox, Brave, Opera and Vivaldi
+- Auto-updates from GitHub releases
+- One-line Linux install
 
 <!--
 ## [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> SSH browser]()
